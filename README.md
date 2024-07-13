@@ -90,3 +90,9 @@ we see that our first user was created.
 And their corresponding profile was  created with a working image, well done!
 Before we finish, let’s create  a file with our dependencies.
 Now we can add, commit and push all the changes.
+
+
+
+## important Cheat Sheet to check it for django:
+
+#### https://docs.google.com/document/d/1i4ZZcV5B9g-a0gXZoxgmt7mhrqdizVOjXuT3-NGxiHg/edit#heading=h.juhzxg1uv26f
