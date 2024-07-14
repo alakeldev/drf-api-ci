@@ -4,7 +4,8 @@ start django project with command:
 django-admin startproject **projectname** .
 
 create django app:
-python manage.py startapp profiles
+
+python manage.py startapp **appname**
 
 click on ‘use this template’ and  create our repository from it.
 Then we can open it up in  Gitpod with the Gitpod button.
