@@ -60,7 +60,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '*.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'django-rest-ci-wt-app.herokuapp.com']
 
 
 # Application definition
